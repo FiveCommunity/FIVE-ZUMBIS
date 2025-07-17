@@ -108,4 +108,9 @@ Questions, suggestions, or issues?
 Este projeto é protegido. A revenda sem autorização é proibida.  
 This project is protected. Unauthorized reselling is prohibited.
 
+
+
+## Creeditos
+
 **Todos os direitos reservados / All rights reserved – HyzaN Dev**
+**Todos os direitos reservados / All rights reserved – Bkvini.ofc1**
