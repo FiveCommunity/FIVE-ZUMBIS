@@ -1,0 +1,9 @@
+artifacts/
+cache/
+db/
+.replxx_history
+resources/\[weapons\]/
+*.zip
+*.rar
+*.zip
+*.rar

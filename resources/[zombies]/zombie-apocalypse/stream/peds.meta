@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__InitDataList>
+    <InitDatas>
+        <!-- Zumbi Elite -->
+        <Item>
+            <Name>s_m_y_blackops_03</Name>
+            <MotionClipFileName>MP_M_FREEMODE</MotionClipFileName>
+            <ExpressionName>DEFAULT</ExpressionName>
+            <Pedtype>PED_TYPE_ZOMBIE</Pedtype>
+            <MovementClipSet>MOVE_M@DRUNK@VERYDRUNK</MovementClipSet>
+            <StrafeClipSet>MOVE_M@DRUNK@VERYDRUNK</StrafeClipSet>
+            <WeaponName>WEAPON_UNARMED</WeaponName>
+            <Behaviour>Zombie</Behaviour>
+            <CombatBehaviour>Zombie</CombatBehaviour>
+        </Item>
+        
+        <!-- Zumbi Tanque -->
+        <Item>
+            <Name>u_m_y_juggernaut_01</Name>
+            <MotionClipFileName>MP_M_FREEMODE</MotionClipFileName>
+            <ExpressionName>DEFAULT</ExpressionName>
+            <Pedtype>PED_TYPE_ZOMBIE</Pedtype>
+            <MovementClipSet>MOVE_M@DRUNK@VERYDRUNK</MovementClipSet>
+            <StrafeClipSet>MOVE_M@DRUNK@VERYDRUNK</StrafeClipSet>
+            <WeaponName>WEAPON_UNARMED</WeaponName>
+            <Behaviour>Zombie</Behaviour>
+            <CombatBehaviour>Zombie</CombatBehaviour>
+            <Health>1000</Health>
+            <Armour>100</Armour>
+            <CanBeKnockedOffBike>false</CanBeKnockedOffBike>
+            <CanBeShotInVehicle>false</CanBeShotInVehicle>
+        </Item>
+
+        <!-- Zumbi Inflamável -->
+        <Item>
+            <Name>a_m_y_methhead_01</Name>
+            <MotionClipFileName>MP_M_FREEMODE</MotionClipFileName>
+            <ExpressionName>DEFAULT</ExpressionName>
+            <Pedtype>PED_TYPE_ZOMBIE</Pedtype>
+            <MovementClipSet>MOVE_M@DRUNK@VERYDRUNK</MovementClipSet>
+            <StrafeClipSet>MOVE_M@DRUNK@VERYDRUNK</StrafeClipSet>
+            <WeaponName>WEAPON_UNARMED</WeaponName>
+            <Behaviour>Zombie</Behaviour>
+            <CombatBehaviour>Zombie</CombatBehaviour>
+            <Health>900</Health>
+            <FireProof>true</FireProof>
+            <BurnUp>false</BurnUp>
+            <CanBeKnockedOffBike>true</CanBeKnockedOffBike>
+            <CanBeShotInVehicle>true</CanBeShotInVehicle>
+            <ExplosionProof>false</ExplosionProof>
+            <DrownProof>false</DrownProof>
+            <OnlyDamagedByPlayer>false</OnlyDamagedByPlayer>
+        </Item>
+        
+        <!-- Zumbi Rápido -->
+        <Item>
+            <Name>a_m_y_acult_01</Name>
+            <MotionClipFileName>MP_M_FREEMODE</MotionClipFileName>
+            <ExpressionName>DEFAULT</ExpressionName>
+            <Pedtype>PED_TYPE_ZOMBIE</Pedtype>
+            <MovementClipSet>MOVE_M@DRUNK@VERYDRUNK</MovementClipSet>
+            <StrafeClipSet>MOVE_M@DRUNK@VERYDRUNK</StrafeClipSet>
+            <WeaponName>WEAPON_UNARMED</WeaponName>
+            <Behaviour>Zombie</Behaviour>
+            <CombatBehaviour>Zombie</CombatBehaviour>
+        </Item>
+        
+        <!-- Zumbi Radioativo -->
+        <Item>
+            <Name>s_m_m_chemsec_01</Name>
+            <MotionClipFileName>MP_M_FREEMODE</MotionClipFileName>
+            <ExpressionName>DEFAULT</ExpressionName>
+            <Pedtype>PED_TYPE_ZOMBIE</Pedtype>
+            <MovementClipSet>MOVE_M@DRUNK@VERYDRUNK</MovementClipSet>
+            <StrafeClipSet>MOVE_M@DRUNK@VERYDRUNK</StrafeClipSet>
+            <WeaponName>WEAPON_UNARMED</WeaponName>
+            <Behaviour>Zombie</Behaviour>
+            <CombatBehaviour>Zombie</CombatBehaviour>
+        </Item>
+    </InitDatas>
+</CPedModelInfo__InitDataList>
