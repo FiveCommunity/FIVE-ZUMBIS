@@ -50,7 +50,7 @@ group "42" Admin "1"
 ### 📬 Suporte
 
 Dúvidas, sugestões ou problemas?  
-👉 Abra um ticket no nosso [Discord Oficial](https://discord.gg/EhPWJh9H4D)
+👉 Abra um ticket no nosso [Discord Oficial](https://discord.gg/fivecommunity)
 
 ---
 
@@ -112,5 +112,4 @@ This project is protected. Unauthorized reselling is prohibited.
 
 ## Creeditos
 
-**Todos os direitos reservados / All rights reserved – HyzaN Dev**
-**Todos os direitos reservados / All rights reserved – Bkvini.ofc1**
+**Todos os direitos reservados / All rights reserved – HyzaN Dev - Bkvini.ofc1**
